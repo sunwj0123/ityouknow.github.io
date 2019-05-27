@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: sunwj0123/sunwj0123.github.io/
 github_url: https://github.com/sunwj0123
-url: http://www.sunwj.com
-enforce_ssl: sunwj.com
+url: http://sunwj0123.github.io
+enforce_ssl: sunwj0123.github.io
 
 ## Gem
 plugins:
